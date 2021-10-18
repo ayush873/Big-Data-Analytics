@@ -1,0 +1,4 @@
+this is the second task og big data
+i have impleted this with the help of geeks for geeks
+lets see what it print
+this is my second attempt
